@@ -1,10 +1,9 @@
-# CPP Programming Solutions
+# Problem Solving & Data Structures and Algorithms (DSA)
 
-This repository contains my C++ solutions to various algorithmic and data structure problems from platforms like LeetCode and HackerRank. 
+This repository contains my solutions to various algorithmic challenges from platforms such as **LeetCode**, **HackerRank**, and academic coursework. 
 
-Each file is named after the specific problem or its ID. Solutions include the implementation of the required functions and often contain comments explaining the logic, as well as the time and space complexity of the algorithm.
+## 🎯 Project Objective
+The primary goal of this project is to sharpen my skills in algorithm design, optimization, and data structure manipulation. While my earlier foundations were built using **C++**, my current focus is on **Python** for algorithm prototyping.
 
-## Technologies Used
-
-* C++ (compiled with C++17/C++20 standards)
-* Standard Template Library (STL)
+> **Why Python for DSA?**
+> Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solution—such as logic flow and complexity—rather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
