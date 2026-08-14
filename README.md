@@ -13,6 +13,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/K0D1Z/problem-solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -22,6 +23,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/K0D1Z/problem-solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 ## Sorting
