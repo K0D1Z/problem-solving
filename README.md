@@ -7,3 +7,15 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 
 > **Why Python for DSA?**
 > Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solution—such as logic flow and complexity—rather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+<!---LeetCode Topics End-->
