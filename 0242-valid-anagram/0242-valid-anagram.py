@@ -1,5 +1,10 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        # PYTHON STYLE
+        # return Counter(s) == Counter(t)
+
+        # SORTING SOLUTION
+        # return sorted(s) == sorted(t)
 
         # HASHMAP SOLTUTION
         if len(s) != len(t):
@@ -17,3 +22,5 @@ class Solution:
                 return False
 
         return True
+
+   
