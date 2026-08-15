@@ -20,6 +20,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -71,12 +73,15 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
