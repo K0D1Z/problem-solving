@@ -23,6 +23,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/K0D1Z/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -43,6 +44,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
@@ -54,6 +56,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
@@ -82,11 +85,13 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
