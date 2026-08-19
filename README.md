@@ -19,6 +19,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/K0D1Z/problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -38,6 +39,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0001-two-sum](https://github.com/K0D1Z/problem-solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
@@ -144,4 +146,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/K0D1Z/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
