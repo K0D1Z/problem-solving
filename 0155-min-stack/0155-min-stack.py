@@ -1,29 +1,29 @@
-class StackElement:
-    def __init__(self, value = None, minimum = None):
-        self.value = value
-        self.minimum = minimum
-
 class MinStack:
     def __init__(self):
         self.stack = []
+        self.minimum_arr = []
         
     def push(self, value: int) -> None:
-        if self.stack:
-            node = StackElement(value, min(self.stack[-1].minimum, value))
-        else:
-            node = StackElement(value, value)
-        self.stack.append(node)
+        if not self.stack:
+            self.minimum_arr.append(value)
+        elif self.minimum_arr[-1] >= value:
+            self.minimum_arr.append(value)
+        self.stack.append(value)
 
     def pop(self) -> None:
         if self.stack:
+            if self.stack[-1] == self.minimum_arr[-1]:
+                self.minimum_arr.pop()
             self.stack.pop()
-
+         
     def top(self) -> int:
         if self.stack:
-            return self.stack[-1].value
+            return self.stack[-1]
 
     def getMin(self) -> int:
-        return self.stack[-1].minimum
+        if self.minimum_arr:
+            return self.minimum_arr[-1]
+        return None
         
 
 
