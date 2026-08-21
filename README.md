@@ -72,6 +72,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
