@@ -1,0 +1,13 @@
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        """
+        Do not return anything, modify s in-place instead.
+        """
+        left = len(s) - 1
+        right = 0
+        while left >= right:
+            s[left], s[right] = s[right], s[left]
+            right += 1
+            left -= 1
+
+        
