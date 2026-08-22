@@ -192,4 +192,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/K0D1Z/problem-solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
