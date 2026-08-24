@@ -78,6 +78,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0290-word-pattern](https://github.com/K0D1Z/problem-solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/K0D1Z/problem-solving/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
