@@ -199,5 +199,10 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/K0D1Z/problem-solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
