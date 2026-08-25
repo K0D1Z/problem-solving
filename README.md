@@ -36,6 +36,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0560-subarray-sum-equals-k](https://github.com/K0D1Z/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
