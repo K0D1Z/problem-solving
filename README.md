@@ -16,6 +16,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0001-two-sum](https://github.com/K0D1Z/problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/K0D1Z/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/K0D1Z/problem-solving/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K0D1Z/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/K0D1Z/problem-solving/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
@@ -64,6 +65,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0015-3sum](https://github.com/K0D1Z/problem-solving/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K0D1Z/problem-solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0088-merge-sorted-array) |
@@ -92,6 +94,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0015-3sum](https://github.com/K0D1Z/problem-solving/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K0D1Z/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/K0D1Z/problem-solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
