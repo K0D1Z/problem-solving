@@ -14,6 +14,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K0D1Z/problem-solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/K0D1Z/problem-solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/K0D1Z/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/K0D1Z/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K0D1Z/problem-solving/tree/master/0018-4sum) |
@@ -93,6 +94,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/K0D1Z/problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/K0D1Z/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K0D1Z/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -196,6 +198,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/K0D1Z/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 ## Stack
