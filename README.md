@@ -37,6 +37,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0560-subarray-sum-equals-k](https://github.com/K0D1Z/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 ## String
 |  |
@@ -104,6 +106,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0011-container-with-most-water](https://github.com/K0D1Z/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -227,4 +231,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1236-n-th-tribonacci-number) |
+## Timsort
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
