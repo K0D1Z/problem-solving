@@ -204,6 +204,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K0D1Z/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
@@ -211,6 +212,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0011-container-with-most-water](https://github.com/K0D1Z/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Stack
@@ -238,6 +240,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 ## Timsort
@@ -249,4 +252,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K0D1Z/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/K0D1Z/problem-solving/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
