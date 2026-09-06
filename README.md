@@ -65,6 +65,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0290-word-pattern](https://github.com/K0D1Z/problem-solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/K0D1Z/problem-solving/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/K0D1Z/problem-solving/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -92,6 +93,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/K0D1Z/problem-solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/K0D1Z/problem-solving/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/K0D1Z/problem-solving/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
@@ -112,6 +114,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/K0D1Z/problem-solving/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
@@ -252,6 +255,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K0D1Z/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/K0D1Z/problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/K0D1Z/problem-solving/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
