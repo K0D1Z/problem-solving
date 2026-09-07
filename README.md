@@ -45,6 +45,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -241,6 +242,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/K0D1Z/problem-solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
