@@ -39,6 +39,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/K0D1Z/problem-solving/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
@@ -50,6 +51,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -230,6 +232,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/K0D1Z/problem-solving/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
