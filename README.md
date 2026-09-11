@@ -154,6 +154,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/K0D1Z/problem-solving/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/K0D1Z/problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
@@ -232,6 +233,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/K0D1Z/problem-solving/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/K0D1Z/problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -277,4 +279,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/K0D1Z/problem-solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
