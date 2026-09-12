@@ -28,6 +28,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K0D1Z/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
@@ -233,6 +234,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/K0D1Z/problem-solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/K0D1Z/problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/K0D1Z/problem-solving/tree/master/0232-implement-queue-using-stacks) |
@@ -245,6 +247,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/K0D1Z/problem-solving/tree/master/0507-perfect-number) |
