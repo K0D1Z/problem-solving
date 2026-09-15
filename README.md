@@ -48,6 +48,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
+| [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -55,6 +56,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
