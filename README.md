@@ -50,6 +50,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/K0D1Z/problem-solving/tree/master/3194-find-words-containing-character) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/K0D1Z/problem-solving/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -114,6 +115,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/K0D1Z/problem-solving/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/K0D1Z/problem-solving/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/K0D1Z/problem-solving/tree/master/3194-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
