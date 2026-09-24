@@ -52,6 +52,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/K0D1Z/problem-solving/tree/master/3194-find-words-containing-character) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/K0D1Z/problem-solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/K0D1Z/problem-solving/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/K0D1Z/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -273,6 +274,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/K0D1Z/problem-solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/K0D1Z/problem-solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/K0D1Z/problem-solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
