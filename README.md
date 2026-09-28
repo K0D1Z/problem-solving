@@ -266,12 +266,14 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/K0D1Z/problem-solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
@@ -321,4 +323,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
