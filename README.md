@@ -25,6 +25,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0041-first-missing-positive](https://github.com/K0D1Z/problem-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K0D1Z/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +223,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -267,6 +269,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0035-search-insert-position](https://github.com/K0D1Z/problem-solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
