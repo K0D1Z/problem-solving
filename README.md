@@ -49,6 +49,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
@@ -273,6 +274,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
