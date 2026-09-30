@@ -274,6 +274,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/K0D1Z/problem-solving/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K0D1Z/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -334,4 +335,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/K0D1Z/problem-solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
