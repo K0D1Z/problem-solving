@@ -1,5 +1,8 @@
 class Solution:
     def shipWithinDays(self, weights: list[int], days: int) -> int:
+        """
+        First attempt, clean approach almost identical
+        """
         def isTimeExceeded(capacity: int):
             days_counter = 1
             temp_capacity = capacity
@@ -9,15 +12,13 @@ class Solution:
                 else:
                     days_counter += 1
                     if days_counter > days:
-                        print('True', days_counter, w, 'capacity:', capacity)
                         return True
                     temp_capacity = capacity - w
-            print('False', days_counter, 'capacity:', capacity)
             return False
         
         l = max(weights)
         r = sum(weights)
-        min_days = float('inf')
+        min_days = r
         while l <= r:
             m = (l + r) // 2
             if not isTimeExceeded(m):
@@ -26,6 +27,3 @@ class Solution:
             else:
                 l = m + 1
         return min_days
-
-
-        
