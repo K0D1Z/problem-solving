@@ -52,6 +52,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/K0D1Z/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
@@ -275,6 +276,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/K0D1Z/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
