@@ -76,6 +76,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/K0D1Z/problem-solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/K0D1Z/problem-solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0003-longest-substring-without-repeating-characters](https://github.com/K0D1Z/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/K0D1Z/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/K0D1Z/problem-solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/K0D1Z/problem-solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
@@ -312,6 +314,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K0D1Z/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/K0D1Z/problem-solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/K0D1Z/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/K0D1Z/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
