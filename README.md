@@ -184,6 +184,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -270,6 +271,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/K0D1Z/problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 ## Newton's Method
 |  |
 | ------- |
@@ -354,4 +357,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/K0D1Z/problem-solving/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
