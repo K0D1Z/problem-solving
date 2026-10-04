@@ -50,6 +50,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [0883-car-fleet](https://github.com/K0D1Z/problem-solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/K0D1Z/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0883-car-fleet](https://github.com/K0D1Z/problem-solving/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
 ## String
@@ -271,6 +273,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/K0D1Z/problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/K0D1Z/problem-solving/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
@@ -340,6 +343,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/K0D1Z/problem-solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/K0D1Z/problem-solving/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
 ## Newton's Method
 |  |
