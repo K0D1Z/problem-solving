@@ -179,6 +179,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K0D1Z/problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
 ## Design
@@ -313,6 +314,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 ## Memoization
