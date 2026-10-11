@@ -61,6 +61,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [1677-matrix-diagonal-sum](https://github.com/K0D1Z/problem-solving/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/K0D1Z/problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/K0D1Z/problem-solving/tree/master/3194-find-words-containing-character) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/K0D1Z/problem-solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -375,4 +376,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/K0D1Z/problem-solving/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/K0D1Z/problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
