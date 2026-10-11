@@ -183,6 +183,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K0D1Z/problem-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/K0D1Z/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K0D1Z/problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
@@ -307,6 +308,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K0D1Z/problem-solving/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
@@ -322,6 +324,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K0D1Z/problem-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/K0D1Z/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
