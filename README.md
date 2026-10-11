@@ -84,6 +84,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/K0D1Z/problem-solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K0D1Z/problem-solving/tree/master/0219-contains-duplicate-ii) |
@@ -149,6 +150,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
@@ -181,6 +183,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/K0D1Z/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K0D1Z/problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
@@ -382,4 +385,8 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/K0D1Z/problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
