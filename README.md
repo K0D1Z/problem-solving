@@ -62,6 +62,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [1677-matrix-diagonal-sum](https://github.com/K0D1Z/problem-solving/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/K0D1Z/problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/K0D1Z/problem-solving/tree/master/2058-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/K0D1Z/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/K0D1Z/problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/K0D1Z/problem-solving/tree/master/3194-find-words-containing-character) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/K0D1Z/problem-solving/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -119,6 +120,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0883-car-fleet](https://github.com/K0D1Z/problem-solving/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K0D1Z/problem-solving/tree/master/0948-sort-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/K0D1Z/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/K0D1Z/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/K0D1Z/problem-solving/tree/master/0917-boats-to-save-people) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/K0D1Z/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
