@@ -191,6 +191,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/K0D1Z/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K0D1Z/problem-solving/tree/master/0817-design-hashmap) |
+| [1669-merge-in-between-linked-lists](https://github.com/K0D1Z/problem-solving/tree/master/1669-merge-in-between-linked-lists) |
 ## Design
 |  |
 | ------- |
