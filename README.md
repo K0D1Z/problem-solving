@@ -127,6 +127,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0003-longest-substring-without-repeating-characters](https://github.com/K0D1Z/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/K0D1Z/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/K0D1Z/problem-solving/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/K0D1Z/problem-solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/K0D1Z/problem-solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/K0D1Z/problem-solving/tree/master/0242-valid-anagram) |
