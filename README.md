@@ -30,7 +30,6 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0088-merge-sorted-array) |
-| [0119-pascals-triangle-ii](https://github.com/K0D1Z/problem-solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K0D1Z/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/K0D1Z/problem-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -267,7 +266,6 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
-| [0119-pascals-triangle-ii](https://github.com/K0D1Z/problem-solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K0D1Z/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K0D1Z/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
@@ -317,6 +315,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/K0D1Z/problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/K0D1Z/problem-solving/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
@@ -332,6 +331,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0002-add-two-numbers](https://github.com/K0D1Z/problem-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/K0D1Z/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/K0D1Z/problem-solving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/K0D1Z/problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/K0D1Z/problem-solving/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -358,6 +358,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/K0D1Z/problem-solving/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/K0D1Z/problem-solving/tree/master/0397-integer-replacement) |
 ## Queue
 |  |
