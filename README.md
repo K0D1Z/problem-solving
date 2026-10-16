@@ -26,6 +26,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0041-first-missing-positive](https://github.com/K0D1Z/problem-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/K0D1Z/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/K0D1Z/problem-solving/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/K0D1Z/problem-solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/K0D1Z/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K0D1Z/problem-solving/tree/master/0088-merge-sorted-array) |
@@ -310,6 +311,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/K0D1Z/problem-solving/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/K0D1Z/problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
