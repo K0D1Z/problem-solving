@@ -2,11 +2,11 @@
 
 This repository contains my solutions to various algorithmic challenges from platforms such as **LeetCode**, **HackerRank**, and academic coursework. 
 
-## ð¯ Project Objective
+## Ã°ÂÂÂ¯ Project Objective
 The primary goal of this project is to sharpen my skills in algorithm design, optimization, and data structure manipulation. While my earlier foundations were built using **C++**, my current focus is on **Python** for algorithm prototyping.
 
 > **Why Python for DSA?**
-> Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solutionâsuch as logic flow and complexityârather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
+> Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solutionÃ¢ÂÂsuch as logic flow and complexityÃ¢ÂÂrather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -46,6 +46,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0239-sliding-window-maximum](https://github.com/K0D1Z/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0463-island-perimeter](https://github.com/K0D1Z/problem-solving/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/K0D1Z/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/K0D1Z/problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/K0D1Z/problem-solving/tree/master/0682-baseball-game) |
@@ -181,7 +182,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
@@ -255,6 +256,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0036-valid-sudoku](https://github.com/K0D1Z/problem-solving/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/K0D1Z/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K0D1Z/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0463-island-perimeter](https://github.com/K0D1Z/problem-solving/tree/master/0463-island-perimeter) |
 | [1677-matrix-diagonal-sum](https://github.com/K0D1Z/problem-solving/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
@@ -419,10 +421,12 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/K0D1Z/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0463-island-perimeter](https://github.com/K0D1Z/problem-solving/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/K0D1Z/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0463-island-perimeter](https://github.com/K0D1Z/problem-solving/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
