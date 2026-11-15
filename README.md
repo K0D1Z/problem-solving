@@ -2,11 +2,11 @@
 
 This repository contains my solutions to various algorithmic challenges from platforms such as **LeetCode**, **HackerRank**, and academic coursework. 
 
-## 🎯 Project Objective
+## ð¯ Project Objective
 The primary goal of this project is to sharpen my skills in algorithm design, optimization, and data structure manipulation. While my earlier foundations were built using **C++**, my current focus is on **Python** for algorithm prototyping.
 
 > **Why Python for DSA?**
-> Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solution—such as logic flow and complexity—rather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
+> Transitioning to Python allows me to iterate faster and focus on the **strategy** of the solutionâsuch as logic flow and complexityârather than low-level syntax. It reflects my ability to choose the right tool for the task, prioritizing architectural clarity and efficient problem-solving.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -89,6 +89,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K0D1Z/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/K0D1Z/problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/K0D1Z/problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K0D1Z/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
@@ -159,6 +160,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0142-linked-list-cycle-ii](https://github.com/K0D1Z/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K0D1Z/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/K0D1Z/problem-solving/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/K0D1Z/problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K0D1Z/problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/K0D1Z/problem-solving/tree/master/0567-permutation-in-string) |
@@ -179,7 +181,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0229-majority-element-ii](https://github.com/K0D1Z/problem-solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K0D1Z/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/K0D1Z/problem-solving/tree/master/1635-number-of-good-pairs) |
-## Boyer–Moore Majority Vote Algorithm
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K0D1Z/problem-solving/tree/master/0169-majority-element) |
@@ -319,6 +321,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | [0069-sqrtx](https://github.com/K0D1Z/problem-solving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K0D1Z/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/K0D1Z/problem-solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/K0D1Z/problem-solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/K0D1Z/problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/K0D1Z/problem-solving/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/K0D1Z/problem-solving/tree/master/0507-perfect-number) |
@@ -406,6 +409,7 @@ The primary goal of this project is to sharpen my skills in algorithm design, op
 | ------- |
 | [0141-linked-list-cycle](https://github.com/K0D1Z/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K0D1Z/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/K0D1Z/problem-solving/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
