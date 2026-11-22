@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/K0D1Z/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
 | ------- |
