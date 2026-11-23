@@ -18,6 +18,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/K0D1Z/problem-solving/tree/master/0812-rotate-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/K0D1Z/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/K0D1Z/problem-solving/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
