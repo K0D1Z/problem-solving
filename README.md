@@ -11,6 +11,7 @@
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## String Matching
 |  |
 | ------- |
