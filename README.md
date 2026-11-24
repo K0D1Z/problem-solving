@@ -13,6 +13,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/K0D1Z/problem-solving/tree/master/2892-check-if-array-is-good) |
+| [2902-max-pair-sum-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2902-max-pair-sum-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/K0D1Z/problem-solving/tree/master/2892-check-if-array-is-good) |
+| [2902-max-pair-sum-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2902-max-pair-sum-in-an-array) |
 ## String
 |  |
 | ------- |
