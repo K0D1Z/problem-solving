@@ -7,6 +7,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -17,6 +18,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
