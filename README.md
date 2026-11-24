@@ -8,6 +8,7 @@
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 <!---LeetCode Topics End-->
