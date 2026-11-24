@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/K0D1Z/problem-solving/tree/master/0006-zigzag-conversion) |
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
