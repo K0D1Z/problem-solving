@@ -31,7 +31,7 @@ class Solution:
             mul = mul1
             while idx + mul < len(s):
                 idx += mul
-                res += s[idx]
+                res.append(s[idx])
                 if is_mul1:
                     mul = mul2
                 else:
