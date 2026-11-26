@@ -7,6 +7,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0690-employee-importance](https://github.com/K0D1Z/problem-solving/tree/master/0690-employee-importance) |
+| [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -23,6 +24,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0690-employee-importance](https://github.com/K0D1Z/problem-solving/tree/master/0690-employee-importance) |
+| [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
@@ -39,6 +41,7 @@
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/K0D1Z/problem-solving/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/K0D1Z/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/K0D1Z/problem-solving/tree/master/0451-sort-characters-by-frequency) |
+| [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
