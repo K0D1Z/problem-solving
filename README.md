@@ -59,10 +59,12 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
+| [3625-stone-removal-game](https://github.com/K0D1Z/problem-solving/tree/master/3625-stone-removal-game) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
+| [3625-stone-removal-game](https://github.com/K0D1Z/problem-solving/tree/master/3625-stone-removal-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
