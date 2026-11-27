@@ -8,6 +8,7 @@
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0690-employee-importance](https://github.com/K0D1Z/problem-solving/tree/master/0690-employee-importance) |
 | [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
+| [0906-walking-robot-simulation](https://github.com/K0D1Z/problem-solving/tree/master/0906-walking-robot-simulation) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -25,6 +26,7 @@
 | [0500-keyboard-row](https://github.com/K0D1Z/problem-solving/tree/master/0500-keyboard-row) |
 | [0690-employee-importance](https://github.com/K0D1Z/problem-solving/tree/master/0690-employee-importance) |
 | [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
+| [0906-walking-robot-simulation](https://github.com/K0D1Z/problem-solving/tree/master/0906-walking-robot-simulation) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/K0D1Z/problem-solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/K0D1Z/problem-solving/tree/master/0906-walking-robot-simulation) |
 | [3625-stone-removal-game](https://github.com/K0D1Z/problem-solving/tree/master/3625-stone-removal-game) |
 ## Euclidean Algorithm
 |  |
