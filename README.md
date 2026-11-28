@@ -13,6 +13,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/K0D1Z/problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/K0D1Z/problem-solving/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/K0D1Z/problem-solving/tree/master/1944-truncate-sentence) |
 | [2159-two-out-of-three](https://github.com/K0D1Z/problem-solving/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/K0D1Z/problem-solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/K0D1Z/problem-solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -44,6 +45,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/K0D1Z/problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/K0D1Z/problem-solving/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/K0D1Z/problem-solving/tree/master/0829-subdomain-visit-count) |
+| [1944-truncate-sentence](https://github.com/K0D1Z/problem-solving/tree/master/1944-truncate-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/K0D1Z/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
